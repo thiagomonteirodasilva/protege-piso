@@ -1,0 +1,26 @@
+.capa{
+	background: url(../img/bannerprincipal.jpg) no-repeat center bottom;
+	height: 460px;
+	padding-top: 110px;
+}
+.capa-logo {
+	display: block;
+	margin: 64px auto 0
+}
+.capa-texto {
+	color: #fff;
+	margin: 88px 0 0;
+	text-align: right;
+}
+.capa-texto h1 {
+	font-size: 40px;
+	font-weight: 800;
+	text-align: right;
+}
+.capa-texto p {
+	color: inherit;
+	font-size: 16px;
+	text-transform: uppercase;
+	text-align: right;
+}
+

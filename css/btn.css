@@ -1,0 +1,51 @@
+.btn {
+	white-space: normal;
+}
+.btn-franqueado{
+	border: 2px solid white;
+	border-radius: 0;
+	color: #fff;
+	font-size: 12px;
+	font-weight: 900;
+	letter-spacing: 5px;
+	line-height: 1;
+	padding: 17px 20px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+	transition: all .3s;
+	word-spacing: 2px;
+}
+.btn-franqueado:hover,
+.btn-franqueado:active,
+.btn-franqueado:focus {
+	border-color: #333;
+	color: #333;
+}
+
+.btn-diferenciais{
+	background-color: #08472A;
+	border: none;
+	border-radius: 0px;
+	color: #18D67B;
+	font-size: 15px;
+	font-weight: 700;
+	letter-spacing: 15px;
+	padding: 32px 200px;
+	text-align: center;
+	text-transform: uppercase;
+	}
+
+	.btn-diferenciais:hover,
+	.btn-diferenciais:active,
+	.btn-diferenciais:focus {
+		background-color: #08472A;
+		color: #18D67B;
+		outline: 0;
+	}
+
+@media screen and (max-width: 767px) {
+	.btn-franqueado {
+		margin-bottom: 15px
+	}
+}

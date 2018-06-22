@@ -1,0 +1,22 @@
+.img-pay-use{
+	background: url(../img/imgprotege_02.jpg) bottom;
+	height: 420px;
+	padding-top: 146px;
+}
+
+.img-pay-use p{
+	background-color: rgb(230,230,230);
+	opacity: 0.88;
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 13px;
+	line-height: 20px;
+	padding: 50px 40px 50px 40px;
+	text-transform: uppercase;
+	color: #000;
+	text-shadow: none;
+}
+
+.strong-pay-use{
+	font-weight: 900;
+}
